@@ -5,8 +5,8 @@
 *{margin:0;padding:0;box-sizing:border-box}
 .dcd-youtube-wrapper{position:relative;width:100%;aspect-ratio:16/9;overflow:hidden;background:#000;display:flex;align-items:center}
 .dcd-player-box{position:relative;width:100%;height:100%}
-.dcd-youtube-iframe{position:absolute;top:50%;left:50%;width:100%!important;height:180%!important;transform:translate(-50%,-50%);border:0}
-.dcd-youtube-iframe iframe{position:absolute;top:50%;left:50%;width:100%!important;height:180%!important;transform:translate(-50%,-50%);border:0}
+.dcd-youtube-iframe{position:absolute;top:50%;left:50%;width:100%!important;height:200%!important;transform:translate(-50%,-50%);border:0}
+.dcd-youtube-iframe iframe{position:absolute;top:50%;left:50%;width:100%!important;height:200%!important;transform:translate(-50%,-50%);border:0}
 .dcd-overlay{position:absolute;inset:0;z-index:5;cursor:pointer;background:transparent;-webkit-tap-highlight-color:transparent}
 .dcd-thumbnail-overlay{position:absolute;inset:0;z-index:10;display:flex;align-items:center;justify-content:center;overflow:hidden;background:#000}
 .dcd-thumbnail-overlay img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:brightness(.6)}
